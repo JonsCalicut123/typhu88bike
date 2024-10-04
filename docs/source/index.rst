@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+Typhu 88 - Cổng game giải trí hàng đầu Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Typhu88 <https://typhu88.bike/>`_ tự hào là một trong những nhà cái hàng đầu tại Châu Á, cung cấp nền tảng cá cược online chất lượng cao với kết nối mạnh mẽ đến nhiều nhà phân phối game toàn cầu như Mỹ, Philippines, Ma Cao, Hồng Kông, Thái Lan và Trung Quốc. Được cấp phép bởi PAGCOR tại Philippines và giám sát bởi Gaming Associates, Typhu88 cam kết mang đến trải nghiệm an toàn và bảo mật cho người chơi thông qua công nghệ mã hóa dữ liệu hiện đại.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Người dùng có thể thực hiện giao dịch nạp và rút tiền trong vòng 1 phút thông qua nhiều ngân hàng và phương thức thanh toán điện tử tại Việt Nam. Typhu88 cung cấp một kho game đa dạng bao gồm xổ số, casino trực tuyến, cá cược thể thao và trò chơi dân gian, thu hút đông đảo người chơi. 
 
-.. note::
+Typhu88 cũng nổi bật với tỷ lệ thưởng cao và các chương trình khuyến mãi hấp dẫn. Dịch vụ chăm sóc khách hàng chuyên nghiệp luôn sẵn sàng hỗ trợ người chơi qua nhiều kênh liên lạc.
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 20 Đ. HT35, Hiệp Thành, Quận 12, Hồ Chí Minh, Vietnam. 
 
-.. toctree::
+Phone: 0385041057. 
 
-   usage
-   api
+Email: info@typhu88.bike. 
+
+Website: https://typhu88.bike/ 
+
+#typhu88 #trangchutyphu88 #dangkytyphu88 #dangnhaptyphu88 #linktyphu88
